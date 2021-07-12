@@ -1,6 +1,6 @@
 - 👋 Hi, I’m software engineer.
-- 👀 I’m interested in Flutter, Phyton, Spring, Docker.
-- 🌱 I’m currently learning Flutter, Phyton, Spring, Docker.
+- 👀 I’m interested in Flutter, Python, Spring, Docker.
+- 🌱 I’m currently learning Flutter, Python, Spring, Aws, Docker.
 - 📫 How to reach me : sheep0128@gmail.com
 
 <!---
